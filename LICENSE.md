@@ -1,4 +1,4 @@
-# 
+# Personnalisé Claude Code Telegram Remote Launcher scripts. Avec prise de décision automatisée et IA explicable — optimisé pour des performances maximales.
 
 
 
